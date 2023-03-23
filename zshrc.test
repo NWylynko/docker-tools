@@ -1,0 +1,4 @@
+alias node18='docker run --interactive --tty --rm --workdir /app --volume $PWD:/app --publish-all --network='host' --privileged node:18 node'
+alias node18='docker run --interactive --tty --rm --workdir /app --volume $PWD:/app --publish-all --network='host' --privileged node:18 node'
+alias node18='docker run --interactive --tty --rm --workdir /app --volume $PWD:/app --publish-all --network='host' --privileged node:18 node'
+alias node18='docker run --interactive --tty --rm --workdir /app --volume $PWD:/app --publish-all --network='host' --privileged node:18 node'

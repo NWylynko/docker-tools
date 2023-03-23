@@ -1,0 +1,12 @@
+{
+  "name": "docker-tools",
+  "module": "src/index.ts",
+  "version": "0.0.1",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "meow": "^11.0.0"
+  }
+}
